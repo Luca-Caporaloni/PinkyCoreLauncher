@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "pinkycorelauncher",
   "version": "2.2.1",
-  "productName": "Helios Launcher",
+  "productName": "PinkyCore Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Luca Caporaloni https://github.com/Luca-Caporaloni/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/Luca-Caporaloni/PinkyCoreLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/Luca-Caporaloni/PinkyCoreLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Luca-Caporaloni/PinkyCoreLauncher.git"
   }
 }
